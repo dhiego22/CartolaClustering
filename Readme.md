@@ -68,4 +68,4 @@ Add scouts from round 30
 | GS              | gols sofridos                                             |                                                                                                    |
 | Posicao         | TARGET Column: Position of Player                         | gol:goleiro, zag:zagueiro, lat:lateral, mei:meia, ata:atacante, tec:técnico                        |
 
-### dados_agregados_amostras.csv
+
